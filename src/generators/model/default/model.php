@@ -20,7 +20,7 @@ echo "<?php\n";
 namespace <?= $generator->ns ?>;
 
 use Yii;
-use jinowom\yii2wtools\tools\ArrayHelper;
+use jinowom\yii2jtools\tools\ArrayHelper;
 use yii\behaviors\BlameableBehavior;
 use yii\behaviors\TimestampBehavior;
 

@@ -5,7 +5,7 @@
  */
 
 use yii\helpers\Html;
-use jinowom\yii2wtools\tools\JsBlock;
+use jinowom\yii2jtools\tools\JsBlock;
 
 $wid = "RangeColumn{$widget->id}";
 

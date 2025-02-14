@@ -27,7 +27,7 @@
     "php": ">=7.1 || ^8.2",
     "yiisoft/yii2": "^2.0.6",
     "yiisoft/yii2-gii": "^2.1.0",
-    "yiisoft/yii2-bootstrap": "^2.0.0",
+    "yiisoft/yii2-bootstrap": "^2.0.11",
     "kartik-v/yii2-krajee-base": "^2.0|^3.0.5",
     "kartik-v/yii2-grid": "^3.3.4",
     "kartik-v/yii2-detail-view": "^1.8.2",

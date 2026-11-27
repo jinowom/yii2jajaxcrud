@@ -24,18 +24,18 @@
     "source": "https://github.com/jinowom/yii2jajaxcrud"
   },
   "require": {
-    "php": ">=7.1 || ^8.2",
+    "php": ">=7.1 || ^8.2 || ^8.5 ",
     "yiisoft/yii2": "^2.0.6",
     "yiisoft/yii2-gii": "^2.1.0",
     "yiisoft/yii2-bootstrap5": "^2.0.4",
     "kartik-v/yii2-krajee-base": "^2.0|^3.0.5",
-    "kartik-v/yii2-grid": "^3.3.4",
-    "kartik-v/yii2-detail-view": "^1.8.2",
-    "kartik-v/yii2-date-range": "^1.7.1",
-    "kartik-v/yii2-mpdf": "^1.0.5",
-    "kartik-v/yii2-editable": "^1.7.8",
-    "kartik-v/yii2-widget-activeform": "^1.5.8",
-    "jinowom/yii2jtools": "1.0.3"
+    "kartik-v/yii2-grid": "^3.5.3",
+    "kartik-v/yii2-detail-view": "^1.8.7",
+    "kartik-v/yii2-date-range": "^1.7.3",
+    "kartik-v/yii2-mpdf": "^1.0.6",
+    "kartik-v/yii2-editable": "^1.8.0",
+    "kartik-v/yii2-widget-activeform": "^1.6.4",
+    "jinowom/yii2jtools": "1.0.4"
   },
   "autoload": {
     "psr-4": {
